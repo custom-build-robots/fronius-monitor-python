@@ -8,7 +8,7 @@ With those two programs you are now able to read all the information available v
 
 Then I build a small terminal with a touch screen and a Raspberry Pi to show all the information and to toggle a two Tasmota AC WiFi switches to switch on / off a pump and an electric stove to store and heat the living room. The prototype setup looks like a cardboard box as shown in the picture below.
 
-
+With the python program gui_fronius_touch_screen.py I implemented a solution to display the most important key figures on a 5" touch sreen powered by a Raspberry Pi 3 B+.
 
 ![Fronius Python monitor](https://www.blogyourearth.com/wp-content/uploads/2022/12/Fronius_Monitor_Python_WIFI_Touchscreen_1-1024x768.jpg)
 
