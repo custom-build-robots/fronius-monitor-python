@@ -8,6 +8,11 @@ With those two programs you are now able to read all the information available v
 
 Then I build a small terminal with a touch screen and a Raspberry Pi to show all the information and to toggle a two Tasmota AC WiFi switches to switch on / off a pump and an electric stove to store and heat the living room. The prototype setup looks like a cardboard box as shown in the picture below.
 
-<picture>
+
+
+![Fronius Python monitor](https://www.blogyourearth.com/wp-content/uploads/2022/12/Fronius_Monitor_Python_WIFI_Touchscreen_1-1024x768.jpg)
+
+I will update the readme very soon for some more details. In the meantime visit my blog.
+
 ## More details are available on my blog: 
-https://www.blogyourearth.com/top-story/fronius-solar-api-python-beispielprogramm/12810
+https://www.blogyourearth.com/top-story/fronius-solar-api-python-beispielprogramm-monitor/12810
